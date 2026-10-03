@@ -1,2 +1,2 @@
-# data-analytics-portfolio
-My data analytics portfolio featuring Excel, SQL and Power BI projects, business insights and data-driven analysis.
+Excel-Sales-Analysis
+An end-to-end Excel sales analysis project exploring revenue, products, regions, customers, discounts, and sales performance.
